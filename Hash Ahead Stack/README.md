@@ -1,0 +1,2 @@
+# Hash Ahead堆栈
+
