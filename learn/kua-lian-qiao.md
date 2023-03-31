@@ -1,34 +1,36 @@
 ---
-description: 实现不同区块链之间的互操作性和价值传输，使用户能够在多条链上自由地转移和交换资产。
+description: >-
+  Realize interoperability and value transmission between different blockchains,
+  enabling users to freely transfer and exchange assets on multiple chains.
 ---
 
-# 跨链桥
+# Cross-chain bridge
 
-## 什么是跨链桥
+## What is a cross-chain bridge
 
-跨链桥是一种技术解决方案，允许将不同区块链之间的数字资产或数据在它们之间传输和交换。它是一种跨越不同区块链之间的连接，使它们能够相互通信和互操作。跨链桥的目的是打破各个区块链之间的隔阂，使它们能够实现互联互通，并在不同区块链之间传输和交换价值。
+A cross-chain bridge is a technical solution that allows digital assets or data between different blockchains to be transferred and exchanged between them. It is a connection that spans between different blockchains, enabling them to communicate and interoperate with each other. The purpose of the cross-chain bridge is to break down the barriers between various blockchains, enabling them to realize interconnection and transfer and exchange value between different blockchains.
 
-HAH本身支持跨链交易和数据传输，可以与其他公链项目进行互操作。同时，HAH也支持开发者构建跨链桥来连接不同的区块链网络，实现跨链交易和资产转移等功能。开发者可以通过HAH提供的跨链桥开发工具和文档，根据自己的需求和场景，构建符合自己需求的跨链桥。
+HAH itself supports cross-chain transactions and data transmission, and can interoperate with other public chain projects. At the same time, HAH also supports developers to build cross-chain bridges to connect different blockchain networks to realize functions such as cross-chain transactions and asset transfers. Developers can use the cross-chain bridge development tools and documents provided by HAH to build cross-chain bridges that meet their needs according to their own needs and scenarios.
 
-## 为什么我们需要跨链桥
+### Why do we need cross-chain bridges
 
-我们需要跨链桥是因为目前存在许多不同的区块链网络，它们之间无法直接交互和通信。跨链桥允许将不同的区块链网络连接起来，使它们能够实现跨链交易和资产转移。这样，用户可以在不同的区块链网络之间自由转移和交换资产，实现更广泛的应用场景和更高效的价值传输。同时，跨链桥也有助于促进区块链网络之间的协作和互操作性，进一步推动整个区块链行业的发展。
+We need cross-chain bridges because there are currently many different blockchain networks that cannot directly interact and communicate with each other. Cross-chain bridges allow different blockchain networks to be connected, enabling them to achieve cross-chain transactions and asset transfers. In this way, users can freely transfer and exchange assets between different blockchain networks, realizing wider application scenarios and more efficient value transmission. At the same time, the cross-chain bridge also helps to promote collaboration and interoperability between blockchain networks, further promoting the development of the entire blockchain industry.
 
-使用跨链桥，可以实现：
+Using the cross-chain bridge, you can achieve:
 
-* [x] 资产和信息的跨链转移
-* [x] dapps 以获取各种区块链的优势——从而增强它们的能力（因为协议现在有更多的创新设计空间）。
-* [x] 用户访问新平台并利用不同链的优势。
-* [x] 来自不同区块链生态系统的开发人员协作并为用户构建新平台。
+* [x] Cross-chain transfer of assets and information
+* [x] Dapps to reap the benefits of various blockchains - thereby enhancing their capabilities (as protocols now have more room for innovative design).
+* [x] Users access the new platform and take advantage of different chains.
+* [x] Developers from different blockchain ecosystems collaborate and build new platforms for users.
 
-## 跨链桥的分类
+## Classification of cross-chain bridges
 
-（1）链下跨链桥：这种跨链桥不直接在区块链上运行，而是在链外进行，例如通过中心化的信任机构或者多方签名机制来进行跨链操作。
+(1) Off-chain cross-chain bridge: This cross-chain bridge does not run directly on the blockchain, but is performed outside the chain, for example, through a centralized trust agency or a multi-party signature mechanism for cross-chain operations.
 
-（2）链上跨链桥：这种跨链桥直接在区块链上运行，它可以通过智能合约实现多个链之间的互操作性，通常使用代币锁定和解锁来实现跨链转移。
+(2) On-chain cross-chain bridge: This cross-chain bridge runs directly on the blockchain, and it can achieve interoperability between multiple chains through smart contracts, usually using tokens to lock and unlock to achieve cross-chain transfers .
 
-（3）原子交换跨链桥：这种跨链桥使用原子交换技术，在两个链之间直接进行点对点的交易，使得两个链之间的交易可以同时进行，从而实现资产的跨链转移。
+(3) Atomic swap cross-chain bridge: This cross-chain bridge uses atomic swap technology to conduct point-to-point transactions directly between the two chains, so that transactions between the two chains can be carried out simultaneously, thereby realizing the cross-chain transfer of assets .
 
-（4）门限签名跨链桥：这种跨链桥使用门限签名技术，将多个私钥拆分成多个部分，通过多个节点共同签名的方式实现跨链转移。这种跨链桥通常具有更高的安全性和去中心化程度。
+(4) Threshold signature cross-chain bridge: This cross-chain bridge uses threshold signature technology to split multiple private keys into multiple parts, and realize cross-chain transfer through multiple nodes co-signing. This cross-chain bridge usually has a higher degree of security and decentralization.
 
-（5）智能网桥跨链桥：这种跨链桥是一种相对较新的技术，它可以将不同的区块链连接成一个智能网桥网络，并通过智能合约进行交互，从而实现跨链转移和互操作性。
+(5) Smart bridge cross-chain bridge: This cross-chain bridge is a relatively new technology that can connect different blockchains into a smart bridge network and interact through smart contracts to achieve cross-chain Chain transfers and interoperability.

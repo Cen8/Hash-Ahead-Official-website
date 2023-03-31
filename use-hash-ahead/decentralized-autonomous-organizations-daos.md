@@ -1,37 +1,39 @@
 ---
-description: 一种基于区块链技术的组织形式，旨在实现去中心化决策和自治。
+description: >-
+  A form of organization based on blockchain technology designed to enable
+  decentralized decision-making and autonomy.
 ---
 
-# Decentralized autonomous organizations (DAOs)
+# Decentralized Autonomous Organizations (DAOS)
 
-## 去中心化自治组织 (DAO)
+## Decentralized Autonomous Organization (DAO)
 
-### 什么是DAOS
+### What is DAOS
 
-DAOs（去中心化自治组织）是一种基于区块链技术的组织形式，旨在实现去中心化决策和自治。DAOs的运作基于智能合约，它们允许用户以去中心化的方式组织和管理资金、资源和项目，而无需传统组织形式的中央控制和中介机构的干预。DAOs通常由一组持有代币的人组成，这些代币代表着对组织的所有权和控制权，这些人可以以平等的方式投票表决并决定组织的发展方向和资金分配。DAOs在加密货币和区块链社区中越来越受欢迎，被认为是一种具有创新性和透明度的组织形式。
+DAOs (Decentralized Autonomous Organizations) are a form of organization based on blockchain technology that aims to achieve decentralized decision-making and autonomy. DAOs operate based on smart contracts, and they allow users to organize and manage funds, resources, and projects in a decentralized manner without the central control and intervention of intermediaries in traditional organizational forms. DAOs typically consist of a group of people who hold tokens that represent ownership and control over the organization, who can vote in an equal fashion and determine the direction of the organization and the allocation of funds. DAOs are gaining popularity in the cryptocurrency and blockchain community as an innovative and transparent form of organization.
 
-### DAOS在区块链生态中的重要性
+### The importance of DAOS in the blockchain ecology
 
-DAOs（去中心化自治组织）在区块链生态中具有重要的必要性。区块链技术的本质是去中心化和去信任，而DAOs是这种理念的最佳体现。它们提供了一种新的组织形式，使得个人和组织可以以一种去中心化、透明和公平的方式进行合作和协作。通过使用智能合约和代币激励机制，DAOs可以实现无需信任的合作和决策，从而促进更加民主和包容的社区治理。在去中心化金融和其他分散应用中，DAOs已成为一种重要的组织形式，使得参与者能够共同管理和运营这些系统，从而实现更加公正、透明和开放的金融体系。
+DAOs (Decentralized Autonomous Organizations) have an important necessity in the blockchain ecology. The essence of blockchain technology is decentralization and trustlessness, and DAOs are the best embodiment of this concept. They provide a new form of organization that enables individuals and organizations to cooperate and collaborate in a decentralized, transparent and fair manner. By using smart contracts and token incentives, DAOs can enable trustless cooperation and decision-making, thereby promoting more democratic and inclusive community governance. In decentralized finance and other decentralized applications, DAOs have become an important form of organization, enabling participants to jointly manage and operate these systems, thereby achieving a more fair, transparent and open financial system.
 
-### DAOS如何运作
+### How DAOS works
 
-规则由社区投票决定并写入 DAO 的智能合约。 DAO 是一种数字组织，由区块链上的一组预定规则和/或代码运行，这意味着任何个人或实体都无法控制它。 它通过分散的基于共识的决策来运作，这意味着决策是通过社区投票做出的。
+Rules are voted by the community and written into the DAO's smart contract. A DAO is a digital organization run by a pre-determined set of rules and/or code on the blockchain, meaning no one person or entity has control over it. It operates through decentralized consensus-based decision-making, meaning that decisions are made through community votes.
 
-在实践中，DAO 是如何工作的？ 首先，任何人都可以通过购买代币加入 DAO，代币代表组织的股份并赋予用户投票权。 DAO 的规则被写入其代码并存储在区块链中，这意味着它们不能在未经所有人同意的情况下更改。
+How do DAOs work in practice? First, anyone can join the DAO by purchasing tokens, which represent a stake in the organization and give users voting rights. The DAO's rules are written into its code and stored on the blockchain, meaning they cannot be changed without everyone's consent.
 
-然后根据代币持有者的投票通过民主程序做出决定。 代币持有者有权对变更和决策进行投票，包括谁获得资助、推进哪些项目等。这允许透明和民主的决策过程。
+Decisions are then made through a democratic process based on the votes of token holders. Token holders have the power to vote on changes and decisions, including who gets funded, which projects go forward, and more. This allows for a transparent and democratic decision-making process.
 
-## HASH AHEAD中的DAOS
+## DAOS IN Hash Ahead
 
-### 治理机制
+### Governance Mechanism
 
-为了使得Hash Ahead可以更加健康和长久的发展，我们制定了一系列社区治理的规则。每一个代币持有者都可以参与到社区治理中。 Hash Ahead的治理模式为线上治理，保证提案流程公开透明，接受每一个人的监督。代币持有者和理事会都可发起提案，提案最终都需要经过全民投票，让代币持有者做出决定。
+In order to make Hash Ahead more healthy and long-term development, we have formulated a series of community governance rules. Every token holder can participate in community governance. Hash Ahead's governance model is online governance, which ensures that the proposal process is open and transparent, and accepts everyone's supervision. Both token holders and the council can initiate proposals, and the proposals will eventually need to go through a referendum for token holders to make a decision.
 
-### 涉及角色
+### Involved Role
 
-社区治理模式中涉及到的角色有普通HAH持有者、理事会、技术委员会。 理事会是一个链上实体，由多个参与者组成，每个参与者都表示为一个链上帐户。理事会的主要职责包括：提出利于社区发展的提案、阻止恶意提案通过决议、选举技术委员会。 技术委员会的成员是由理事会任命的。被任命的成员应该对Hash Ahead协议有专业了解。
+The roles involved in the community governance model include ordinary HAH holders, councils, and technical committees. The council is an on-chain entity consisting of multiple participants, each represented as an on-chain account. The main responsibilities of the council include: proposing proposals beneficial to community development, preventing malicious proposals from passing resolutions, and electing technical committees. Members of the Technical Committee are appointed by the Council. Appointed members should have professional knowledge of the Hash Ahead protocol.
 
-### 公投
+### Referendum
 
-所有的治理决策都是由一个提案开始，并经过大众公投后成立。在Hash Ahead中提案可以由三种形式开始： -来自公众，任何一位HAH代币持有者 -来自理事会，理事会由公开选举的HAH持有者组成 -技术委员会在特殊情况下也可提交紧急提案（例如修复链上代码错误）。
+All governance decisions start with a proposal and are established through a popular referendum. Proposals in Hash Ahead can start in three forms: - from the public, any HAH token holder - from the council, which is composed of publicly elected HAH holders - the technical committee can also be used in special cases Submit urgent proposals (such as fixing on-chain code bugs).

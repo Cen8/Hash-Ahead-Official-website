@@ -2,32 +2,32 @@
 description: 我们数字未来的货币
 ---
 
-# 什么是HAH
+# What is HAH
 
-HAH是数字化的全球性资金。 这是hash ahead应用中的货币。
+HAH is digital global money. This is the currency in the hash ahead app.
 
-## 加密资产是什么
+## What are encrypted assets
 
-加密资产是以区块链为基础的一种资产，由于区块链分类账的特性（记录交易数据的数据存储系统），从而使这些资产不必依赖受信任的第三方金融机构来维护。同时这些加密资产也能广泛用于支付和购买商品。
+Encrypted assets are blockchain-based assets. Due to the characteristics of blockchain ledgers (data storage systems that record transaction data), these assets do not have to rely on trusted third-party financial institutions for maintenance. At the same time, these encrypted assets can also be widely used for payment and purchase of goods.
 
-## HAH是什么
+## What is HAH
 
-HAH是 Hash Ahead网络的原生代币，具有治理网络和运营网络的功能。 好的参与者会通过智能合约机制获得代币奖励，而破坏者将会被罚没代币。Hash Ahead通过这样的奖惩机制保证网络可以安全平稳的运行与发展。 HAH的第二个功能是促进支撑 Hash Ahead的共识机制。为了使平台正常运行，Hash Ahead 将依靠 HAH持有者发挥积极作用。参与者将通过质押HAH来执行这些功能，这会抑制恶意网络交易行为。 HAH是Hash Ahead的链上资产，也是Hash Ahead上可接受的一种支付方式，任何人想完成交易的时候，他们都必须支付一定的HAH，使交易被区块链识别。同时，支付的HAH越多，交易完成的速度将越快。
+HAH is the native token of the Hash Ahead network, which has the functions of governing the network and operating the network. Good participants will be rewarded with tokens through the smart contract mechanism, while saboteurs will be fined and confiscated tokens. Hash Ahead ensures the safe and stable operation and development of the network through such a reward and punishment mechanism. The second function of HAH is to promote the consensus mechanism supporting Hash Ahead. In order for the platform to function properly, Hash Ahead will rely on HAH holders to play an active role. Participants will perform these functions by staking HAH, which will inhibit malicious network transactions. HAH is the on-chain asset of Hash Ahead, and it is also an acceptable payment method on Hash Ahead. When anyone wants to complete a transaction, they must pay a certain amount of HAH to make the transaction recognized by the blockchain. At the same time, the more HAH you pay, the faster the transaction will be completed.
 
-### HAH从哪来？
+### Where does HAH come from?
 
-HAH的是与区块共生的。当原子节点的拥有者在基链上创建出一个区块时，就会创造出新HAH。
+HAH is symbiotic with the block. When the owner of the atomic node creates a block on the base chain, a new HAH is created.
 
-### HAH的传输
+### Transmission of HAH
 
-Hash Ahead上的每笔交易都是发起者地址将HAH转移到接收者地址，而当用户调用智能合约时，这些接收者的地址便会成为智能合约，同时HAH一部分会作为奖励给予智能合约作者，另一部分作为交易费消耗掉。
+For each transaction on Hash Ahead, the initiator's address transfers HAH to the recipient's address, and when the user calls the smart contract, the addresses of these recipients will become a smart contract, and part of the HAH will be given to the smart contract author as a reward. The other part is consumed as transaction fees.
 
-### HAH的查询
+### HAH Query
 
-用户可以通过BLOCK SAVER钱包APP进行查询，也可以通过Hash Ahead浏览器进行查询。
+Users can query through the  Block Saver wallet APP, or through the Hash Ahead browser.
 
-## HAH使hash ahead运行并保持hash ahead安全
+## HAH makes hash ahead run and keeps hash ahead safe
 
-HAH（Hash Ahead）作为Hash Ahead公链的本地代币，是Hash Ahead生态中的核心资产。HAH代币的质押和投票机制使得持有者可以参与到节点的选举和投票中，并从中获取一定的奖励，同时也可以为整个Hash Ahead生态的发展做出贡献。质押HAH可以帮助维护Hash Ahead公链的安全性和稳定性，同时也可以获得代币奖励，激励节点运营商提供更好的服务，促进生态的发展。
+HAH (Hash Ahead), as the native token of the Hash Ahead public chain, is the core asset in the Hash Ahead ecosystem. The pledge and voting mechanism of HAH tokens enable holders to participate in the election and voting of nodes, and obtain certain rewards from them, and also contribute to the development of the entire Hash Ahead ecology. Pledging HAH can help maintain the security and stability of the Hash Ahead public chain, and at the same time, you can get token rewards to motivate node operators to provide better services and promote ecological development.
 
-在Hash Ahead公链中，HAH代币是网络运行的关键之一，它不仅用于交易支付和手续费，还可以用于节点竞选和投票等生态建设。HAH代币的价值和流通性直接关系到Hash Ahead公链的生态发展和用户体验，因此持有和质押HAH代币对于Hash Ahead生态的稳健运行和发展至关重要。
+In the Hash Ahead public chain, the HAH token is one of the keys to network operation. It is not only used for transaction payment and handling fees, but also for ecological construction such as node election and voting. The value and liquidity of HAH tokens are directly related to the ecological development and user experience of the Hash Ahead public chain. Therefore, holding and pledging HAH tokens is crucial to the stable operation and development of the Hash Ahead ecosystem.

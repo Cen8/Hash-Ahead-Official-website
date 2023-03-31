@@ -6,96 +6,85 @@ description: Non-fungible tokens (NFTs), Sell at Scale
 
 With Hash Ahead high speed and low fees make it a perfect fit for NFTs of all shapes and sizes.
 
-## 什么是NFT
+## What is NFT
 
-NFT是Non-Fungible Token（非同质化代币）的缩写，是一种基于区块链技术的数字资产，具有不可替代性、独特性和可验证性的特点。其在数字艺术品、游戏道具、虚拟地产等领域具有广泛的应用价值。
+NFT is the abbreviation of Non-Fungible Token (non-homogeneous token), which is a digital asset based on blockchain technology, which is irreplaceable, unique and verifiable. It has a wide range of application values in digital artworks, game props, virtual real estate and other fields.
 
-### 不可替代性
+### Irreplaceable
 
-NFT是非同质化代币，与普通的加密货币不同，每一个NFT都是独一无二的，不能被替代或互换
+NFT is a non-homogeneous token. Unlike ordinary cryptocurrencies, each NFT is unique and cannot be replaced or interchanged
 
-### 独特性
+### Unique
 
-NFT可以代表数字艺术品、音乐、游戏道具等各种数字资产，每个NFT都有其独特的属性和价值
+NFT can represent various digital assets such as digital artwork, music, game props, etc. Each NFT has its unique attributes and values
 
-### 可验证性
+### Verifiability
 
-由于NFT是基于区块链技术的，因此其所有权和交易历史可以被记录和验证，确保了数字资产的真实性和所有权。
+Since NFT is based on blockchain technology, its ownership and transaction history can be recorded and verified, ensuring the authenticity and ownership of digital assets.
 
-## 同质化代币VS非同质化代币
+## Homogeneous Tokens VS Non-Fungible Tokens
 
-简单地说，NFT是一个具有唯一标识符并具有允许您存储其某些信息的附加参数的令牌。这个唯一的标识符使得令牌不可替代。附加信息可以是任何信息，如文本、图像、音频和视频文件。与可替代的加密货币不同，NFT是唯一的，而且是不可互换的。由于每个比特币或以太都是统一的，实际上与其他币无法区分，你可以在加密货币交易所自由交易它们。
+Simply put, an NFT is a token with a unique identifier and additional parameters that allow you to store certain information about it. This unique identifier makes the token non-fungible. Additional information can be any information such as text, images, audio and video files. Unlike fungible cryptocurrencies, NFTs are unique and not fungible. Since each bitcoin or ether is unified and practically indistinguishable from other coins, you can freely trade them on cryptocurrency exchanges.
 
-### 同质化货币（以太坊/比特币）
+### Homogeneous currency (Ethereum/Bitcoin)
 
-可交换的
+* Interchangeable
+* Consistent
+* Can be traded on exchanges&#x20;
+* Similar to currency or stock&#x20;
+* Divisible
+* Divisible into decimals
 
-一致的
+For example, 1 bitcoin can be divisible by at most 0.0000001 bitcoin, thus providing better liquidity for exchanging tokens.
 
-\-可在交易所交易
+### Non-Fungible Tokens (NFTs)
 
-&#x20;\-类似于货币或股票
+* Non-exchangeable&#x20;
+* Unique
+* Can be traded on the market
+* Used in the field of games, collectibles, artworks, intellectual property&#x20;
+* Indivisible
+* Cannot be divided into parts
+* Usually illiquid and difficult to sell immediately
 
-可分割
+## NFT Application
 
-\-可分成小数&#x20;
+NFT has a wide range of applications and plays its unique role in many fields.
 
-\-例如1比特币最多可以被0.0000001比特币整除，从而为交换代币提供更好的流动性。
+### Art and Collectibles Field
 
-### 非同质化货币（NFTs）
+NFTs can be used to ensure the uniqueness and authenticity of digital artwork and collectibles, preventing counterfeiting and piracy, while providing creators with a fair means of revenue distribution.
 
-不可交换的
+### Game Field
 
-独特的
+NFT can be used for the ownership and transaction of game props and virtual items, providing players with a real sense of ownership and freedom of transaction.
 
-\-可在市场上交易
+### Real Estate Field
 
-&#x20;\-用于游戏、收藏品、艺术品、知识产权领域
+NFT can be used to represent the ownership of real estate, making real estate transactions more transparent and efficient.
 
-不可分割
+### Copyright field
 
-\-不能分成部分&#x20;
+NFT can be used to ensure the copyright and usage rights of digital content, allowing copyright owners and users to better negotiate and reach agreement.
 
-\-通常流动性较差并且难以立即出售
+### Sports Field
 
-## NFT的应用
+NFT is also widely used in the field of sports. Some sports brands, clubs and athletes have already started using NFTs to promote their brands, host competitions or provide digital experiences.
 
-NFT 的应用非常广泛，在多个领域发挥其独特作用。
+## Advantages of NFTs
 
-### 艺术品和收藏品领域
+### Authenticity And Efficiency
 
-NFT 可以用于确保数字艺术品和收藏品的独特性和真实性，防止伪造和盗版，同时为创作者提供公平的收入分配方式。
+Verification of authenticity and transaction efficiency are often pain points for irreplaceable commodities. For example, if someone bought the Mona Lisa and then tried to sell it, it would be difficult to verify its authenticity without an art expert. A plagiarist may make multiple copies and sell them to different buyers.
 
-### 游戏领域
+With digital art, it's easier to create copies and claim the work as their own; and unlike the real world, there's no way to verify which digital image is the original. This is where NFTs come in. NFTs use smart contract technology to store and record unique information on the blockchain, which means that no matter when an NFT is created, only one NFT is verifiably present. NFT creators can also encrypt details such as rich metadata or secure file links, allowing people to create a variety of verifiable digital assets based on image, audio and video files. These technologies allow everyone to verify the authenticity of digital assets and simplify the process of determining ownership. It also allows for the safe, efficient and verifiable transfer of assets.
 
-NFT 可以用于游戏道具和虚拟物品的所有权和交易，为玩家提供真正的所有权感和交易自由度。
+NFTs Remove Middlemen
 
-### 房地产领域
+Art is just one example of how NFTs disrupt intermediaries, and the key lesson is that NFTs can tokenize anything and remove inefficiencies beyond authenticity.
 
-NFT 可以用于代表房产的所有权，使得房产交易更为透明和高效。
+Have you ever wondered why some key documents are still recorded on paper? This is because there is no way to verify that a certain digital copy is unique and trustworthy. NFTs will change that, pioneering the creation of outstanding digital art, collectibles, in-game items, and even important documents like wills, passports, and land titles.
 
-### 版权领域
+## The Future Of NFTs
 
-NFT 可以用于确保数字内容的版权和使用权，让版权方和使用方能够更好地协商和达成一致。
-
-### 体育运动领域
-
-NFT在体育运动领域的应用也非常广泛。一些体育品牌、俱乐部和运动员已经开始利用NFT来推广自己的品牌、举办竞赛或提供数字化体验。
-
-## NFT的优势
-
-### 真实性和效率
-
-验证真实性和交易效率通常是不可替代商品的痛点。例如，如果有人买了蒙娜丽莎，然后又试图卖掉它，如果不请艺术专家，就很难验证它的真实性。剽窃者可能会制作多个复制品，并将它们卖给不同的买家。
-
-有了数字艺术，创造副本并声称作品是他们自己的就更容易了；而且与现实世界不同，没有办法验证哪个数字图像是原件。这就是NFT的用武之地，NFT利用智能合约技术在区块链上存储和记录独特的信息，这意味着无论何时创建NFT，只有一个NFT是可核查的存在。NFT创建者还可以对丰富的元数据或安全文件链接等细节进行加密，允许人们在图像、音频和视频文件的基础上创建各种可验证的数字资产。这些技术允许每个人验证数字资产的真实性，并简化了确定所有权的过程。它还允许安全、有效和可核查地转移资产。
-
-### NFTs去除中间商
-
-艺术只是NFTs颠覆中介机构的一个例子，其关键启示是，NFTs可以将任何东西代币化，并消除真实性之外的低效问题。
-
-你有没有想过，为什么一些关键的文件仍在使用纸张记录？这是因为没有办法验证某个数字副本是否是唯一的和值得信赖的。NFTs将改变这种状况，为创造杰出的数字艺术、收藏品、游戏中的物品，甚至是遗嘱、护照和土地所有权等重要文件开创先河。
-
-## NFT的未来
-
-未来，NFT将在各行各业发挥巨大的作用，将现实世界的价值与数字世界相结合。NFT将使个人和企业能够更好地管理和交易其资产，并将创造全新的收入来源和商业模式。同时，它还将为艺术家、音乐家、游戏开发者和创意人才提供更多的机会，让他们能够更好地控制其作品的版权和收入。NFT的未来充满着无限的可能性，我们期待着看到它在全球范围内发挥其巨大的潜力。
+In the future, NFT will play a huge role in all walks of life, combining the value of the real world with the digital world. NFT will enable individuals and businesses to better manage and trade their assets, and will create entirely new revenue streams and business models. At the same time, it will also provide more opportunities for artists, musicians, game developers and creative talents to gain more control over the copyright and income of their works. The future of NFT is full of infinite possibilities, and we look forward to seeing it realize its huge potential on a global scale.

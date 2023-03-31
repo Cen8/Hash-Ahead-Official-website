@@ -1,61 +1,55 @@
 ---
-description: 安全和防欺诈
+description: Security and Fraud Prevention
 ---
 
-# 安全和防欺诈
+# Security and Fraud Prevention
 
-加密货币是非常有趣和令人兴奋的，但也存在严重的风险。 如果您前期投入少量的工作，你就可以降低这些风险。
+Cryptocurrencies are very interesting and exciting, but also come with serious risks. You can reduce these risks if you put in a small amount of work upfront.
 
-## 安全和防诈骗
+## Security and Fraud Prevention
 
-随着加密数字资产不断发展，诈骗分子也逐渐活跃，他们不断设置新型骗局，误导对数字资产了解不够充分的用户，导致很多人的资产安全受到威胁。因此提前了解诈骗分子如何进行诈骗以及相应的应对方式，对于保证账户安全是十分有必要的。
+With the continuous development of encrypted digital assets, fraudsters are also gradually active. They continue to set up new types of scams to mislead users who do not fully understand digital assets, and many people's asset security is threatened. Therefore, it is very necessary to understand how fraudsters commit fraud and the corresponding countermeasures in advance to ensure account security.
 
-## 常见的诈骗方式
+## Common Scams
 
-### 钓鱼短信&#x20;
+### Phishing SMS
 
-用户在使用一些交易平台时，会在上面留下自己的联系方式和身份信息，一旦在这些交易平台的信息被泄露（尤其是一些小的交易平台），诈骗分子就会根据这些信息去主流平台的短信服务商的数据库中进行检索，从而获取更多信息，比如合约情况或提币情况等。 用户收到钓鱼短信后，如果用户轻信了这些短信内容或者点击了短信中的链接那就会落入诈骗分子的圈套。
+When users use some trading platforms, they will leave their contact information and identity information on them. Once the information on these trading platforms is leaked (especially some small trading platforms), fraudsters will go to mainstream platforms based on this information. Search in the database of the SMS service provider to obtain more information, such as contract status or currency withdrawal status. After the user receives the phishing text message, if the user credulously believes the content of these text messages or clicks on the link in the text message, he will fall into the trap of fraudsters.
 
-### 虚假名人代言&#x20;
+### Fake celebrity endorsement
 
-诈骗者盗取名人社交媒体账户或创建虚假账户，并鼓励追随者投资其发布的虚假计划。曾经有案例，诈骗者通过这种诈骗方式骗走大约 200 万美元，他们甚至将 Elon Musk 的名字放到比特币地址中，以使这个骗局更值得信赖。
+Scammers steal celebrity social media accounts or create fake accounts and encourage followers to invest in fake schemes they post. There have been cases where scammers have made around $2 million out of this scam, and they even put Elon Musk’s name in the bitcoin address to make the scam more trustworthy.
 
-### 冒名顶替者应用程序&#x20;
+### Imposter App
 
-网络犯罪分子将恶意程序伪装，上传到应用程序商店。如果您安装一个，它可能会窃取个人、财务详细信息，或在设备上植入恶意软件。他们可能会诱骗用户为不存在的服务付费，或试图窃取您的加密货币钱包的登录信息。
+Cybercriminals disguise malicious programs and upload them to app stores. If you install one, it could steal personal, financial details, or plant malware on your device. They could trick users into paying for services that don't exist, or try to steal your cryptocurrency wallet logins.
 
-### 密码被黑客破解&#x20;
+### The password was cracked by hackers
 
-很多习惯不好的用户通常设置一个统一密码，使用统一密码可以登录多个不同的交易平台和钱包软件。当密码被泄露时，黑客可以通过一个密码就可以访问用户的所有账户。
+Many users with bad habits usually set a unified password, and use the unified password to log in to multiple different trading platforms and wallet software. When passwords are compromised, hackers can gain access to all of a user's accounts with just one password.
 
-### 私钥泄露&#x20;
+### Leaked private key
 
-如果私钥泄露，意味着这个钱包已经属于别人，钱包中的一切资产都会被转移，这种危险性最高，没有之一。通常有以下导致用户泄露私钥的诈骗手段：
+If the private key is leaked, it means that the wallet already belongs to someone else, and all assets in the wallet will be transferred, which is the most dangerous, none of them. There are usually the following fraudulent methods that cause users to disclose their private keys:
 
-1. ```
-   冒充交易所客服。告诉你交易所账号被冻结，需要按照客服指示完成相关操作才可解除冻结。
-   ```
-2. ```
-   假钱包。诈骗分子利用假钱包，当你导入密钥使用钱包的时候，或者用它的假钱包存入数字资产时，他们会监控你的余额，一旦符合他们的标准，就会把你的数字资产转移到他的私人账户中。
-   ```
-3. ```
-   手机被监听。 比如复制和粘贴的时候，其实可以被某些手机软件监听到你复制的内容。特别是输入法，在此强烈建议大家关闭输入法的网络访问权限。这种盗取是防不胜防的，不要轻易的复制粘贴你的私钥。
-   ```
+* Pretending to be customer service of the exchange. Tell you that the exchange account is frozen, and you need to complete the relevant operations according to the customer service instructions to unfreeze.
+* Fake wallet. Fraudsters use fake wallets. When you import keys to use the wallet, or use its fake wallet to deposit digital assets, they will monitor your balance, and once they meet their standards, they will transfer your digital assets to in his personal account.
+* Cell phones are monitored. For example, when copying and pasting, some mobile phone software can actually monitor what you copy. Especially for the input method, it is strongly recommended that you close the network access permission of the input method. This kind of theft is hard to prevent, so don't copy and paste your private key easily.
 
-## 如何避免误入骗局
+### How to Avoid Falling for a Scam
 
-### 通过官方通道查看信息
+### View information through official channels
 
-针对钓鱼短信，最好的解决方式无非是审慎的留意短信或者接听电话，对所谓的“官方”或“工作人员”都要提高警惕，尤其是一些陌生电话，更需小心。及时对信息来源进行验证。 提高自我安全防范意识，不要轻易点击或扫描任何非官方渠道推送的链接和二维码，保护好个人财产安全，对于任何涉及到账户登录、划转/转账、提现等操作的一定要保持万分警惕。
+For phishing text messages, the best solution is nothing more than carefully paying attention to text messages or answering calls, and be vigilant against so-called "official" or "staff", especially some unfamiliar calls. Promptly verify sources of information. Improve self-security awareness, do not easily click or scan any links and QR codes pushed by unofficial channels, protect the safety of personal property, and be extremely vigilant for any operations involving account login, transfer/transfer, cash withdrawal, etc. .
 
-### 设置安全级别高的密码
+### Set a password with a high level of security
 
-在使用交易网站或者钱包软件时，设置一些复杂的密码以保证不会被黑客轻易破解。在密码设置时，不要使用自己或家人的生日、证件号码等常用的关键词，尽量使用一些无规律的字母大小写、数字和符号进行组合。
+When using trading websites or wallet software, set some complex passwords to ensure that they will not be easily cracked by hackers. When setting a password, do not use commonly used keywords such as your own or your family's birthday, ID number, etc., and try to use some irregular combinations of uppercase and lowercase letters, numbers and symbols.
 
-### 不向任何人透露自己的私钥信息
+### Do not disclose your private key information to anyone
 
-私钥信息一旦被其他人获取，就等同于丢失了账户的绝对控制权。因此，不管是交易平台还是谁都不可能索要用户的私钥信息，只有保护好个人私钥，才能真正保证个人的数字资产安全。
+Once the private key information is obtained by others, it is equivalent to losing the absolute control of the account. Therefore, neither the trading platform nor anyone can ask for the user's private key information. Only by protecting the personal private key can the security of personal digital assets be truly guaranteed.
 
-### 不使用非官方应用商店
+### Do not use unofficial app stores
 
-通过官方渠道获取应用程序，这样可以有效防止诈骗分子通过一些非法程序窃听手机信息的情况发生。
+Obtain applications through official channels, which can effectively prevent fraudsters from eavesdropping on mobile phone information through some illegal programs.

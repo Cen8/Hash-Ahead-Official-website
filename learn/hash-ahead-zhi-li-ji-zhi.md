@@ -1,47 +1,50 @@
 ---
-description: 如果没有人拥有hash ahead，那么关于hash ahead过去和未来变化的决定是如何做出的？ hash ahead治理是指允许作出此类决定的过程。
+description: >-
+  If no one owns Hash Ahead, how are decisions about past and future changes to
+  hash ahead made? Hash ahead governance refers to the process that allows such
+  decisions to be made.
 ---
 
-# hash  ahead治理机制
+# Hash Ahead governance mechanism
 
-## 社区治理
+## Community Governance
 
-为了使得Hash Ahead可以更加健康和长久的发展，我们制定了一系列社区治理的规则。每一个代币持有者都可以参与到社区治理中。 Hash Ahead的治理模式为线上治理，保证提案流程公开透明，接受每一个人的监督。代币持有者和理事会都可发起提案，提案最终都需要经过全民投票，让代币持有者做出决定。
+In order to make Hash Ahead more healthy and long-term development, we have formulated a series of community governance rules. Every token holder can participate in community governance. Hash Ahead's governance model is online governance, which ensures that the proposal process is open and transparent, and accepts everyone's supervision. Both token holders and the council can initiate proposals, and the proposals will eventually need to go through a referendum for token holders to make a decision.
 
-## 社区治理参与角色
+## Community Governance Participation Role
 
-### 理事会
+### Council
 
-理事会是一个链上实体，由多个参与者组成，每个参与者都表示为一个链上帐户。在 Hash Ahead中，理事会目前由 13 名成员组成。理事会的主要职责包括：提出利于社区发展的提案、阻止恶意提案通过决议、选举技术委员会。 理事会成员的选举算法为“Phragmén 选举算法”。HAH持有者可以通过质押自己持有的代币成为理事会成员的候选者。公众可以对候选人进行选举，最终按照投票数量进行排序并确定最终的理事会成员。
+The council is an on-chain entity consisting of multiple participants, each represented as an on-chain account. In Hash Ahead, the Council currently consists of 13 members. The main responsibilities of the council include: proposing proposals beneficial to community development, preventing malicious proposals from passing resolutions, and electing technical committees. The election algorithm for council members is the "Phragmén Election Algorithm". HAH holders can become candidates for council members by staking their tokens. The public can elect candidates, and finally sort according to the number of votes and determine the final council members.
 
-### 技术委员会
+### Technical committee
 
-技术委员会的成员是由理事会任命的，不是公众投票选的。被任命的成员应该对Hash Ahead协议有专业了解，在Hash Ahead链上建立了自己的更加完善项目的开发团队更有可能被任命为技术委员会的成员。Hash Ahead的开发团队也会成为技术委员会的一员。 技术委员会可以发起紧急公投，实时进行代码的错误修复或者添加新的并经过实际验证对社区发展有益的功能。
+Members of the Technical Committee are appointed by the Council, not by public vote. Appointed members should have a professional understanding of the Hash Ahead protocol, and development teams that have established their own more complete projects on the Hash Ahead chain are more likely to be appointed as members of the technical committee. Hash Ahead's development team will also be a member of the technical committee. The technical committee can launch an emergency referendum to fix code errors in real time or add new features that have been proven to be beneficial to community development.
 
-## hash ahead治理流程
+## Hash Ahead Governance Process
 
-所有的治理决策都是由一个提案开始，并经过大众公投后成立。在Hash Ahead中提案可以由三种形式开始： —来自公众，任何一位HAH代币持有者 —来自理事会，理事会由公开选举的HAH持有者组成 —技术委员会在特殊情况下也可提交紧急提案（例如修复链上代码错误）。
+All governance decisions start with a proposal and are established through a popular referendum. Proposals in Hash Ahead can start in three forms: - from the public, any HAH token holder - from the council, which is composed of publicly elected HAH holders - the technical committee can also be used in special cases Submit urgent proposals (such as fixing on-chain code bugs).
 
-任何人都可以通过在一定时期内质押最低金额的HAH来发起一项提案，发起提案的流程如下：
+Anyone can initiate a proposal by staking the minimum amount of HAH within a certain period of time. The process of initiating a proposal is as follows:
 
-### 链下提案
+### Off-chain proposal
 
-在Hash Ahead官网或github上发布提案，以供讨论和反馈而完善提案，该步非必要步骤，但有利于收集更多意见并完善提案，避免链上提案反复修改；
+Publish the proposal on the Hash Ahead official website or github for discussion and feedback to improve the proposal. This step is not necessary, but it is conducive to collecting more opinions and improving the proposal, avoiding repeated revisions of the proposal on the chain;
 
-### 链上提案
+### On-Chain Proposal
 
-发布者确定最终提案方案，在链上提交议案，等待理事会审理；
+The publisher determines the final proposal, submits the proposal on the chain, and waits for the council to review;
 
-### 理事会审理
+### Council hearing
 
-理事会对提案进行投票表决。若有超过50%的成员投赞成票，则提案通过理事会决议，可以进入下一环节。若提案未通过理事会表决则提案被驳回，不可进行后续流程。
+The council votes on the proposal. If more than 50% of the members vote in favor, the proposal passes the resolution of the council and can enter the next stage. If the proposal fails to pass the vote of the council, the proposal will be rejected and no follow-up process can be carried out.
 
-### 提案公投
+### Proposal referendum
 
-通过理事会表决的提案进入公投阶段，由公众对提案进行投票。
+Proposals voted by the council enter the referendum stage, where the public votes on the proposals.
 
-### 提案实施
+### Proposal implementation
 
-公投结束后，成功的议案将在颁布之前进入锁定期；被否决的议案将被直接丢弃。获胜方的代币将被锁定，并且在锁定期结束之前不能转让其代币。提案公投成功后，交由技术委员会实施，完成代码开发和测试，然后交由系统自动完成升级。
+After the referendum, successful proposals will enter a lock-up period before enactment; rejected proposals will be discarded directly. The winning party's tokens will be locked and cannot be transferred until the end of the lockup period. After the successful referendum on the proposal, it will be handed over to the technical committee for implementation, code development and testing will be completed, and then the system will automatically complete the upgrade.
 
-每隔28天，公众将对一个新的公投进行投票。同一个时间段内不能进行多个公投，技术委员会发起的紧急公投除外。
+Every 28 days, the public will vote on a new referendum. Multiple referendums cannot be held within the same time period, except for emergency referendums initiated by technical committees.

@@ -1,33 +1,35 @@
 ---
-description: 不断追求更高的性能、更好的安全性和更可持续的发展
+description: >-
+  Constant pursuit of higher performance, better safety and more sustainable
+  development
 ---
 
-# HASH AHEAD 发展路线图
+# Hash Ahead Development Roadmap
 
-## 第一阶段
+## The first stage
 
-实现功能：&#x20;
+Realize the function:
 
-* 实现无限扩展的多链结构，提供共识基链+功能舰链组成多链结构，可无限扩展功能舰链；
-* 实现去中心化智能合约库，高性能WASM虚拟机，智能合约代码作者激励；&#x20;
-* 提供区块浏览器和钱包APP功能。
+* Realize an infinitely scalable multi-chain structure, provide a consensus base chain + functional ship chain to form a multi-chain structure, and infinitely expand the functional ship chain;
+* Realize decentralized smart contract library, high-performance WASM virtual machine, and incentives for smart contract code authors;
+* Provide block browser and wallet APP functions.
 
-## 第二阶段
+## The second stage
 
-实现功能：
+Realize the function:
 
-* 实现新的共识机制；&#x20;
-* 实现快速全链较验结构，实时区块生产，去除空区块；&#x20;
-* 实现多层P2P网络结构，区块碎片化传输，高效传输路径；&#x20;
-* 实现动态侯选节点选举，轻量化验证节点，节点选择性验证，动态区块奖励，重叠区块生产验证，动态最小“原力”价格调整；&#x20;
-* 实现订单薄模型的去中心化交易所，实现去中心化穿梭桥功能。
+* Implement a new consensus mechanism;
+* Realize fast full-chain verification structure, real-time block production, and remove empty blocks;
+* Realize multi-layer P2P network structure, block fragmentation transmission, and efficient transmission path;
+* Realize dynamic candidate node election, lightweight verification nodes, node selective verification, dynamic block rewards, overlapping block production verification, dynamic minimum "force" price adjustment;
+* Realize the decentralized exchange of the order book model and realize the decentralized shuttle bridge function.
 
-## 第三阶段
+## The third phase
 
-实现功能：&#x20;
+Realize the function:
 
-* 实现无分叉升级功能，社区治理功能；&#x20;
-* 实现轻节点功能，提供应用开发SDK及文档；&#x20;
-* 实现应用开发工具集；&#x20;
-* 实现分布式数据存储和查询以及奖励机制；&#x20;
-* 实现节点数据压缩功能。
+* Realize the function of no fork upgrade and community governance function;
+* Realize light node function, provide application development SDK and documentation;
+* Implement an application development toolset;
+* Realize distributed data storage and query and reward mechanism;
+* Realize the node data compression function.

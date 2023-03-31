@@ -1,53 +1,50 @@
 ---
-description: 掌握Block Saver钱包，开启去中心化世界之旅
+description: Master the Block Saver wallet and start a journey to the decentralized world
 ---
 
-# HAH钱包
+# HAH Wallet
 
-钱包是一个数字资产的安全存储空间，它可以让您安全地存储、管理和使用加密货币，以及访问区块链上的去中心化应用。
+A wallet is a secure storage space for digital assets that allows you to safely store, manage and spend cryptocurrencies, as well as access decentralized applications on the blockchain.
 
-## 什么是Block Saver钱包
+## What is Block Saver Wallet
 
-Block Saver钱包是查看账号余额的一种方式，你也可以理解为是你的银行账号，你可以通过钱包查看你地址上的余额、交易次数、交易链接等。同时，管理你的HAH也需要用到Block Saver钱包，你的钱包不仅仅可以管理你的HAH，也可以管理其他链上资产。这是因为跨链桥的存在，只要是跨链桥支持的第三方链，你都可以将其资产转换为与HAH同样功能的虚拟资产。
+The Block Saver wallet is a way to check the account balance. You can also understand it as your bank account. You can check the balance on your address, transaction times, transaction links, etc. through the wallet. At the same time, you also need to use the Block Saver wallet to manage your HAH. Your wallet can not only manage your HAH, but also manage other assets on the chain. This is because of the existence of the cross-chain bridge, as long as it is a third-party chain supported by the cross-chain bridge, you can convert its assets into virtual assets with the same function as HAH.
 
-想要全面了解钱包的含义和功能，首先你需要了解钱包、账户和地址这三者的含义：
+To fully understand the meaning and function of wallets, you first need to understand the meanings of wallets, accounts, and addresses:
 
-* 账户是一个你用于交易、储存HAH的地方
-* 每一个账户都会有一个地址，对方会通过该地址对你发送资产，同理，你也可以通过对方地址发送资产；&#x20;
-* 钱包是你用于管理账户和地址的工具，同时你也可以在钱包查看余额、转账交易等。
+* An account is a place where you trade and store HAH
+* Each account will have an address, and the other party will send you assets through this address. Similarly, you can also send assets through the other party's address;
+* Wallet is a tool for you to manage accounts and addresses, and you can also check balances, transfer transactions, etc. in the wallet.
 
-## 为什么选择Block Saver钱包？
+## Why choose Block Saver Wallet?
 
-Hash Ahead 的轻量级分层确定性钱包，使用户能快速、便捷的使用它。相比于传统钱包，HAH钱包更加方便用户使用，能最大程度上给予用户中心化钱包式的体验。 HAH钱包无论是数据备份、私钥存放、权限控制或查账等功能上，都远远比其他钱包更加的容易上手。而轻量化的设计，能最大程度上节省用户使用时所消耗的储存空间。相较于全节点钱包，HAH钱包只需同步与用户个人相关的数据，实现部分分布式，运行时只需接上Hash Ahead区块网络上的其他全节点即可。 HAH钱包支持多种跨链交易，通过Hash Ahead的跨链桥，用户可以将第三方的资产转移到HAH钱包，并同时以1：1的形式生成新的虚拟资产，这种虚拟资产和HAH有着相同的功能，不影响用户的体验。
+Hash Ahead's lightweight layered deterministic wallet enables users to use it quickly and easily. Compared with traditional wallets, HAH wallets are more convenient for users to use, and can give users a centralized wallet experience to the greatest extent. The HAH wallet is far easier to use than other wallets in terms of functions such as data backup, private key storage, authority control, or account checking. The lightweight design can save the storage space consumed by users to the greatest extent. Compared with the full-node wallet, the HAH wallet only needs to synchronize the data related to the user's personal to achieve partial distribution. It only needs to be connected to other full nodes on the Hash Ahead block network during operation. The HAH wallet supports a variety of cross-chain transactions. Through the cross-chain bridge of Hash Ahead, users can transfer third-party assets to the HAH wallet, and at the same time generate new virtual assets in the form of 1:1. This virtual asset and HAH have the same The same function does not affect the user experience.
 
-* [x] 安全性
-* [x] 去中心化
-* [x] 透明性
-* [x] 多币种支持
-* [x] 隐私保护
-* [x] 便携性
+* [x] Safety
+* [x] Decentralized
+* [x] Transparency
+* [x] Multi-currency support
+* [x] Privacy protection
+* [x] Portability
 
-## 如何保证钱包安全
+## How to keep your wallet safe
 
-### 使用可信的钱包软件
+### Use Trusted Wallet Software
 
-使用经过验证的官方或信誉良好的第三方钱包软件，可以减少钱包被攻击或遭受欺诈的风险。
+Using verified official or reputable third-party wallet software reduces the risk of your wallet being hacked or defrauded.
 
-### 使用强密码和双重认证
+### Use strong passwords and two-factor authentication
 
-创建一个强密码和启用双重认证可以提高您钱包的安全性。强密码应该是足够复杂的，包括数字、字母和特殊字符。双重认证可以为您的账户添加额外的保护层，通常包括输入验证码或使用安全令牌。
+Creating a strong password and enabling two-factor authentication can improve the security of your wallet. A strong password should be complex enough to include numbers, letters, and special characters. Two-factor authentication can add an extra layer of protection to your account and usually involves entering a verification code or using a security token.
 
-### 备份和加密私钥
+### Backup and encrypt private keys
 
-备份私钥并将其存储在安全的地方，例如离线存储设备，可以在钱包损坏或丢失时恢复访问权。同时，加密私钥也可以提高安全性，防止未经授权的访问。
+Backing up your private keys and storing them in a safe place, such as an offline storage device, can restore access if your wallet is damaged or lost. At the same time, encrypting the private key can also increase security and prevent unauthorized access.
 
-### 谨慎处理交易和转账
+### Handle transactions and transfers with care
 
-确认交易和转账的详细信息，例如接收人地址和金额，以避免意外转账或欺诈。
+Confirm details of transactions and transfers, such as recipient address and amount, to avoid accidental transfers or fraud.
 
-### 避免使用公共网络
+### Avoid using public networks
 
-在使用钱包时，应避免使用公共网络，例如公共WiFi等，以防止网络监听和攻击。
-
-
-
+When using a wallet, you should avoid using public networks, such as public WiFi, to prevent network monitoring and attacks.
