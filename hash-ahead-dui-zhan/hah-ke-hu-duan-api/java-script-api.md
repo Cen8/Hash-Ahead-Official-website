@@ -4,7 +4,7 @@
 
 为此目的，每个Hash Ahead客户端都执行 [JSON-RPC](json-rpc.md) 规范，所以应用程序可以依赖统一的端点集。
 
-如果您想要用 JavaScript 连接到一个Hash Ahead节点， 可以使用原生 JavaScript，不过生态系统中存在一些方便的库，使得这个事情变得更加容易。 通过这些库，开发者可以写下直观易懂甚至单行的代码就能初始化与以太坊的互动（背后使用 JSON RPC 请求）。
+如果您想要用 JavaScript 连接到一个Hash Ahead节点， 可以使用原生 JavaScript，不过生态系统中存在一些方便的库，使得这个事情变得更加容易。 通过这些库，开发者可以写下直观易懂甚至单行的代码就能初始化与Hash Ahead的互动（背后使用 JSON RPC 请求）。
 
 运行一个节点需要连接Hash Ahead软件 -- Hash Ahead客户端。  如果你的节点不在本地计算机上（例如，你的节点在 AWS 实例上运行），请相应地更新教程中的 IP 地址。 有关更多信息，请参阅我们关于[运行节点](../../ji-chu-zhu-ti/jie-dian-yu-ke-hu-duan/yun-hang-jie-dian.md)的页面。
 
@@ -128,7 +128,7 @@ walletMnemonic.signTransaction(tx)
 // 这个连接方法会返回一个新的连接到提供者的钱包实例
 wallet = walletMnemonic.connect(provider)
 
-// 查询以太坊网络
+// 查询Hash Ahead网络
 wallet.getBalance()
 // { Promise: { BigNumber: "42" } }
 wallet.getTransactionCount()

@@ -660,7 +660,7 @@ curl -X POST --data '{"jsonrpc":"2.0","method":"eth_call","params":[{see above}]
 
 ### eth\_estimateGas <a href="#eth_estimategas" id="eth_estimategas"></a>
 
-生成并返回允许交易完成所需燃料数量的估算值。 交易不会被添加到区块链中。 请注意，出于各种原因，包括以太坊虚拟机机制和节点性能，估算值可能远远超过交易实际使用的燃料数量。
+生成并返回允许交易完成所需燃料数量的估算值。 交易不会被添加到区块链中。 请注意，出于各种原因，包括Hash Ahead虚拟机机制和节点性能，估算值可能远远超过交易实际使用的燃料数量。
 
 #### **返回值**
 

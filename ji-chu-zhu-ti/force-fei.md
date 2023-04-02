@@ -12,7 +12,7 @@ Force 是指在Hash Ahead网络上执行特定操作所需的计算工作量。
 
 由于每笔Hash Ahead交易都需要计算资源才能执行，每笔交易都需要付费。 在这个方面上，Force 是指在Hash Ahead成功进行交易所需的费用。
 
-本质上，Force 费用是Hash Ahead的货币 HAH 支付的。 Force 价格以 Gwei 标明，Gwei 本身就是 HAH 的一个单位――每个 Gwei 等于 0.000000001 ETH (10-9 ETH)。 例如，您可以说您的 HAH 成本为 1 Gwei，而不是说您的 HAH 成本为 0.000000001 以太。 “gwei”一词本身表示“giga-wei”，等于 1,000,000,000 wei。 Wei 本身（以 [b-money](https://www.investopedia.com/terms/b/bmoney.asp) 的发明者 [Wei Dai](https://wikipedia.org/wiki/Wei\_Dai)命名）是 HAH 中最小的单位。
+本质上，Force 费用是Hash Ahead的货币 HAH 支付的。 Force 价格以 Gwei 标明，Gwei 本身就是 HAH 的一个单位――每个 Gwei 等于 0.000000001 ETH (10-9 ETH)。 例如，您可以说您的 HAH 成本为 1 Gwei，而不是说您的 HAH 成本为 0.000000001 HAH。 “gwei”一词本身表示“giga-wei”，等于 1,000,000,000 wei。 Wei 本身（以 [b-money](https://www.investopedia.com/terms/b/bmoney.asp) 的发明者 [Wei Dai](https://wikipedia.org/wiki/Wei\_Dai)命名）是 HAH 中最小的单位。
 
 ## 基础费 <a href="#base-fee" id="base-fee"></a>
 
