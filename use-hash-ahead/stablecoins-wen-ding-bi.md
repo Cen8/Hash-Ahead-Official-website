@@ -1,5 +1,5 @@
 ---
-description: 稳定币，数字资产的新选择。
+description: Stablecoins, a new option for digital assets.
 ---
 
 # Stablecoins
