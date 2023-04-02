@@ -14,7 +14,7 @@ Hash Ahead社区已经采用了许多标准，这有助于在项目的不同实�
 
 * [HRC-20 ](token-biao-zhun/hrc20-tong-zhi-hua-dai-bi.md)- 同质化（可互换）代币的标准接口，比如投票代币、质押代币或虚拟货币。
 * [HRC-721 ](token-biao-zhun/hrc721-fei-tong-zhi-hua-dai-bi-nft.md)- 非同质化代币的标准接口，比如艺术作品或歌曲的契约。
-* [HRC-777 ](token-biao-zhun/hrc-777.md)- 针对 ERC-20 改进的代币标准。
+* [HRC-777 ](token-biao-zhun/hrc-777.md)- 针对 HRC-20 改进的代币标准。
 * [HRC-1155 ](token-biao-zhun/hrc-1155.md)- 可包含同质化和非同质化资产的代币标准。
 * [HRC-4626 ](token-biao-zhun/hrc-4626.md)- 一个代币化的资金库标准，旨在优化和统一收益资金库的技术参数。
 

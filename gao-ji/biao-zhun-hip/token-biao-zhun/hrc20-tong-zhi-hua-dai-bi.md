@@ -14,11 +14,11 @@
 * 一盎司黄金
 * 及更多...
 
-Hash Ahead的这种强大特点必须以强有力的标准来处理，对吗？ 这正是 ERC-20 发挥其作用的地方！ 此标准允许开发者构建可与其他产品和服务互相操作的代币应用程序。
+Hash Ahead的这种强大特点必须以强有力的标准来处理，对吗？ 这正是 HRC-20 发挥其作用的地方！ 此标准允许开发者构建可与其他产品和服务互相操作的代币应用程序。
 
-**什么是 ERC-20？**
+**什么是 HRC-20？**
 
-ERC-20 提出了一个同质化代币的标准，换句话说，它们具有一种属性，使得每个代币都与另一个代币（在类型和价值上）完全相同。 例如，一个 ERC-20 代币就像 HAH 一样，意味着一个代币会并永远会与其他代币一样。
+HRC-20 提出了一个同质化代币的标准，换句话说，它们具有一种属性，使得每个代币都与另一个代币（在类型和价值上）完全相同。 例如，一个 HRC-20 代币就像 HAH 一样，意味着一个代币会并永远会与其他代币一样。
 
 ## 正文
 
@@ -70,14 +70,14 @@ pip install web3
 from web3 import Web3
 
 
-w3 = Web3(Web3.HTTPProvider("https://cloudflare-eth.com"))
+w3 = Web3(Web3.HTTPProvider("https://cloudflare-hah.com"))
 
 dai_token_addr = "0x6B175474E89094C44Da98b954EedeAC495271d0F"     # DAI
-weth_token_addr = "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2"    # Wrapped ether (WETH)
+whah_token_addr = "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2"    # Wrapped WHAH
 
 acc_address = "0xA478c2975Ab1Ea89e8196811F51A7B7Ade33eB11"        # Uniswap V2: DAI 2
 
-# This is a simplified Contract Application Binary Interface (ABI) of an ERC-20 Token Contract.
+# This is a simplified Contract Application Binary Interface (ABI) of an HRC-20 Token Contract.
 # It will expose only the methods: balanceOf(address), decimals(), symbol() and totalSupply()
 simplified_abi = [
     {
@@ -117,13 +117,13 @@ print("===== %s =====" % symbol)
 print("Total Supply:", totalSupply)
 print("Addr Balance:", addr_balance)
 
-weth_contract = w3.eth.contract(address=w3.toChecksumAddress(weth_token_addr), abi=simplified_abi)
-symbol = weth_contract.functions.symbol().call()
-decimals = weth_contract.functions.decimals().call()
-totalSupply = weth_contract.functions.totalSupply().call() / 10**decimals
-addr_balance = weth_contract.functions.balanceOf(acc_address).call() / 10**decimals
+whah_contract = w3.eth.contract(address=w3.toChecksumAddress(whah_token_addr), abi=simplified_abi)
+symbol = whah_contract.functions.symbol().call()
+decimals = whah_contract.functions.decimals().call()
+totalSupply = whah_contract.functions.totalSupply().call() / 10**decimals
+addr_balance = whah_contract.functions.balanceOf(acc_address).call() / 10**decimals
 
-#  WETH
+#  WHAH
 print("===== %s =====" % symbol)
 print("Total Supply:", totalSupply)
 print("Addr Balance:", addr_balance)
