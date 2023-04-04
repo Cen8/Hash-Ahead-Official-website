@@ -1,7 +1,3 @@
----
-description: 我们数字未来的货币
----
-
 # What is HAH
 
 HAH is digital global money. This is the currency in the hash ahead app.
