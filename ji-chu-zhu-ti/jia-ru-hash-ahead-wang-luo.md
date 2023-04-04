@@ -13,7 +13,7 @@ $ cd hashahead
 然后运行测试网节点
 
 ```
-$ hashahead -deamon -testnet
+$ hashahead -daemon -testnet
 ```
 
 停止测试网的节点
@@ -39,7 +39,7 @@ $ cd hashahead
 然后运行主网节点
 
 ```
-$ hashahead -deamon
+$ hashahead -daemon
 ```
 
 停止主网的节点

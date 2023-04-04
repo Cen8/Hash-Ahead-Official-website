@@ -30,7 +30,7 @@ fulldb
 3\.      运行Hash Ahead节点
 
 ```
-$ hashahead -demon
+$ hashahead -daemon
 ```
 
 4\.      进入Hash Ahead节点
