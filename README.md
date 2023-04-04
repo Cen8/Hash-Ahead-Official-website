@@ -1,2 +1,6 @@
-# Use Hash Ahead
+---
+description: Ahead
+---
+
+# 使用Hash Ahead
 
